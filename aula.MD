@@ -8,10 +8,10 @@ Como um lego, você irá utilizar peças para criar algorítmos, ou seja, resolv
 ## Peças de uma lingugem
 
 - [x] Comentários
-- Declarações de variáveis (const, int)
-- Operações (atribuição, concatenação, matemáticos, lógicos)
-- Tipos de dados (string, number, boolean)
-- Estrutura de dados (function, object, array)
+- [x] Declarações de variáveis (const, int)
+- [x] Operações (atribuição, concatenação, matemáticos, lógicos)
+- [x] Tipos de dados (string, number, boolean)
+- [x] Estrutura de dados (function, object, array)
 - Controle de fluxo (if/else)
 - Estruturas de Repetição (for, while)
 
@@ -23,31 +23,37 @@ Como um lego, você irá utilizar peças para criar algorítmos, ou seja, resolv
 
 ## Escopos e Variáveis
 
-- Variáveis globais e locais
+- [x] Variáveis globais e locais
   - Pode mudar o valor a qualquer momento;
   - Sempre que estiver entre chaves é variável local;
-- Constantes
+- [x] Constantes
   - Nuca pode mudar o seu valor;
 
 ## Tipos de dados
 
-- Strings (textos): "" '' ``
-- Number (numéricos): 2 / 1.4
-- Functions
+- [x] Strings (textos): "" '' ``
+- [x] Number (numéricos): 2 / 1.4
+- [x] Boolean: true or false
 
 ## Operadores
 
-- = : Atribuição de valor
-- - : Concatenação de valores
+- [x] (=) : Atribuição de valor
+- [x] (+) : Concatenação de valores
 
 ## Estrutura de dados
 
 ### Arrays:
 
-Uma lista que contém qualquer tipo de dado
+- [x] Uma lista que contém qualquer tipo de dado
 
-### Objetos
+### Objetos:
 
-- Atributos e métodos
-- Criação e manipulação de objetos
-- Acesso a propriedades de objetos
+- [x] Atributos e métodos
+- [x] Criação e manipulação de objetos
+- [x] Acesso a propriedades de objetos
+
+### Functions
+
+- [x] Criar, parametrizar (argumento)
+- [x] Executar
+- [x] Arrow function / Named function
