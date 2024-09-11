@@ -38,3 +38,16 @@ Como um lego, você irá utilizar peças para criar algorítmos, ou seja, resolv
 ## Operadores
 
 - = : Atribuição de valor
+- - : Concatenação de valores
+
+## Estrutura de dados
+
+### Arrays:
+
+Uma lista que contém qualquer tipo de dado
+
+### Objetos
+
+- Atributos e métodos
+- Criação e manipulação de objetos
+- Acesso a propriedades de objetos
