@@ -1,6 +1,9 @@
 // hello world
-const mensagem = "hello, world!";
-console.log(mensagem);
-console.log(mensagem);
-console.log(mensagem);
+const mensagem = "hello, Dany!";
+
+{
+  const mensagem = "hello, world!";
+  console.log(mensagem);
+}
+
 console.log(mensagem);
