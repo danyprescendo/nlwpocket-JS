@@ -7,7 +7,7 @@ Como um lego, você irá utilizar peças para criar algorítmos, ou seja, resolv
 
 ## Peças de uma lingugem
 
-- Comentários
+- [x] Comentários
 - Declarações de variáveis (const, int)
 - Operações (atribuição, concatenação, matemáticos, lógicos)
 - Tipos de dados (string, number, boolean)
@@ -20,3 +20,21 @@ Como um lego, você irá utilizar peças para criar algorítmos, ou seja, resolv
 - Coletar os dados
 - Processar os dados
 - Apresentar os dados
+
+## Escopos e Variáveis
+
+- Variáveis globais e locais
+  - Pode mudar o valor a qualquer momento;
+  - Sempre que estiver entre chaves é variável local;
+- Constantes
+  - Nuca pode mudar o seu valor;
+
+## Tipos de dados
+
+- Strings (textos): "" '' ``
+- Number (numéricos): 2 / 1.4
+- Functions
+
+## Operadores
+
+- = : Atribuição de valor
