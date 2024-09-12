@@ -65,3 +65,8 @@ Como um lego, você irá utilizar peças para criar algorítmos, ou seja, resolv
 ## Condicionais
 
 - [x] Switch
+
+## Módulos em Node.js
+
+- [x] Importação de módulos (require, CommonJS)
+- [x] Biblioteca 'inquirer' para criar prompts interativos
