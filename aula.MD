@@ -57,3 +57,7 @@ Como um lego, você irá utilizar peças para criar algorítmos, ou seja, resolv
 - [x] Criar, parametrizar (argumento)
 - [x] Executar
 - [x] Arrow function / Named function
+
+## Estrutura de Repetição
+
+- [x] While (Enquanto -> Faça)
