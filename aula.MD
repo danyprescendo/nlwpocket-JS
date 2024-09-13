@@ -39,6 +39,7 @@ Como um lego, você irá utilizar peças para criar algorítmos, ou seja, resolv
 
 - [x] (=) : Atribuição de valor
 - [x] (+) : Concatenação de valores
+- [x] (==) : Comparação 1 == 2/ 1 =! 2 <= >= < >
 
 ## Estrutura de dados
 
@@ -52,21 +53,26 @@ Como um lego, você irá utilizar peças para criar algorítmos, ou seja, resolv
 - [x] Criação e manipulação de objetos
 - [x] Acesso a propriedades de objetos
 
-### Functions
+### Functions:
 
 - [x] Criar, parametrizar (argumento)
 - [x] Executar
 - [x] Arrow function / Named function
 
-## Estrutura de Repetição
+## Estrutura de Repetição:
 
 - [x] While (Enquanto -> Faça)
 
-## Condicionais
+## Condicionais:
 
 - [x] Switch
+- [x] if/else
 
-## Módulos em Node.js
+## Módulos em Node.js:
 
 - [x] Importação de módulos (require, CommonJS)
 - [x] Biblioteca 'inquirer' para criar prompts interativos
+
+## Programação assíncronas e Promises:
+
+- [x] Uso de funções assíncronas (async, await)
