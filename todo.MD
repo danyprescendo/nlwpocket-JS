@@ -1,9 +1,9 @@
 - To Do / A ser feito
 
-- Criar metas
-- Listar metas
+- [x] Criar metas
+- [x] Listar metas
   - Meta realizadas
   - Metas abertas
-- Marcar/Desmarcar metas concluídas
+- [x] Marcar/Desmarcar metas concluídas
 - Remover metas
 - Sistema de mensagens
