@@ -12,8 +12,8 @@ Como um lego, você irá utilizar peças para criar algorítmos, ou seja, resolv
 - [x] Operações (atribuição, concatenação, matemáticos, lógicos)
 - [x] Tipos de dados (string, number, boolean)
 - [x] Estrutura de dados (function, object, array)
-- Controle de fluxo (if/else)
-- Estruturas de Repetição (for, while)
+- [x] Controle de fluxo (if/else)
+- [x] Estruturas de Repetição (for, while)
 
 ## Fases da resolução de um problema
 
@@ -47,7 +47,7 @@ Como um lego, você irá utilizar peças para criar algorítmos, ou seja, resolv
 ### Arrays:
 
 - [x] Uma lista que contém qualquer tipo de dado
-- [x] Métodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions)
+- [x] Métodos de array: push, [find, forEach, filter, map] : HOF (Higher Order Functions)
 
 ### Objetos:
 
