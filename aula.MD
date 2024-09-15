@@ -37,16 +37,17 @@ Como um lego, você irá utilizar peças para criar algorítmos, ou seja, resolv
 
 ## Operadores
 
-- [x] (=) : Atribuição de valor
-- [x] (+) : Concatenação de valores
-- [x] (==) : Comparação 1 == 2/ 1 =! 2 <= >= < >
+- [x] (=): Atribuição de valor
+- [x] (+): Concatenação de valores
+- [x] (==): Comparação 1 == 2/ 1 =! 2 <= >= < >
+- [x] (...): Spred Operator
 
 ## Estrutura de dados
 
 ### Arrays:
 
 - [x] Uma lista que contém qualquer tipo de dado
-- [x] Métodos de array: push, find. forEach
+- [x] Métodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions)
 
 ### Objetos:
 
